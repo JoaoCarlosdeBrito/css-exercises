@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(0, 0%, 80%);
+}
+.caixa-1{
+    box-sizing: content-box;
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    padding: 50px;
+    border: 30px solid black;
+}
+.caixa-2{
+    box-sizing: border-box;
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    padding: 50px;
+    border: 30px solid black;
+    margin: 60px auto
+}
